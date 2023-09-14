@@ -10,7 +10,7 @@ _La relation entre commande et client est une relation 1:N. Cela signifie qu'un 
 _Dans les relation entre produit et catégorie, un produit peut appartenir à une seule catégorie, mais une catégorie peut contenir plusieurs produits.
 lien de votre conception MERISE :https://drive.google.com/file/d/1thMgaM7CZkmIIdFCkSg7_O6hyr_XlSYX/view?usp=sharing
 
-_Dans le fichier.sql pour montre le table das bases de données et les requêtes effectuées
+_Dans le fichier e_commerce.sql pour montre le table das bases de données et les requêtes effectuées
 
 
 
